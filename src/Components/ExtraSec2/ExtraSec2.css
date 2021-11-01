@@ -1,0 +1,19 @@
+.box{
+    flex:1 1 25rem;
+    text-align: center;
+    margin-top:4.5rem;
+    margin-left:3.5rem;
+    margin-right:3.5rem;
+}
+  
+.box img{
+    border-radius: 50%;
+    border:1rem solid rgb(233, 160, 142);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+  
+.box h3{
+    font-size: 2rem;
+    color:rgb(58, 70, 80);
+    margin-top: 1.9rem;
+}
